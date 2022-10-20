@@ -20,7 +20,7 @@ let winner = 'Human'
 }
 
 //Results
-console.log(winner)
+console.log(winner)//shows result, only for dev purposes
 console.log(`You chose ${playerHand}!`);
 console.log(`I choose ${cpuHand}!`);
 
